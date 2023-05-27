@@ -36,6 +36,10 @@ To run the website locally, follow these steps:
 - Formik and Yup: For form handling and validation.
 - Fleek: For hosting the website and continuous deployment.
 
+## Design
+
+The mobile app banner was designed using Figma, a collaborative design tool. The banner showcases the key features of the Kamdhanda App and provides an attractive visual representation of the app's functionality.
+
 ## Directory Structure
 
 Here's an overview of the main files and directories within this repository:
