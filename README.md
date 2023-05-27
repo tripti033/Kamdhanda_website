@@ -8,7 +8,7 @@ This repository contains the code for the Kamdhanda App website showcase. It is 
 
 ## Demo
 
-A live demo of the website can be accessed at [https://your-website-url.com](https://your-website-url.com).
+A live demo of the website can be accessed at [Click Here](https://rapid-waterfall-5187.on.fleek.co/).
 
 ## Installation
 
