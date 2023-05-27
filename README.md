@@ -2,11 +2,9 @@
 
 This repository contains the code for the Kamdhanda App website showcase. It is a React-based website that showcases the features and functionality of the Kamdhanda App. The website is built using Tailwind CSS, a utility-first CSS framework.
 
-
-![Screenshot (215)](https://github.com/tripti033/Kamdhanda_website/assets/107789391/e2c61232-5f16-49f4-a839-522131e98294)
-![Screenshot (219)](https://github.com/tripti033/Kamdhanda_website/assets/107789391/c68baf38-67fc-4b1a-a700-9b2ed4059a30)
-![Screenshot (220)](https://github.com/tripti033/Kamdhanda_website/assets/107789391/c7028a33-db04-467d-9e29-b447d5923ca5)
-
+![Screenshot (215)](https://github.com/tripti033/Kamdhanda_website/assets/107789391/54826fbf-5c07-4eed-a6d3-49864117c666)
+![Screenshot (219)](https://github.com/tripti033/Kamdhanda_website/assets/107789391/4971873f-b971-4d52-8161-a69018c038fd)
+![Screenshot (220)](https://github.com/tripti033/Kamdhanda_website/assets/107789391/3fafbf8c-5e97-4c82-a370-2c547e5f88ef)
 
 ## Demo
 
